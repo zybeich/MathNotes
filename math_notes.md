@@ -113,7 +113,7 @@
 
 
 * **Vector $p$-norm ($l^p$ norm)**
-  $$||x||_p = (\sum_i^n |x_i|)^{\frac{1}{p}} \quad p \geq 1, x\in \R^n$$
+  $$||x||_p = (\sum_i^n |x_i|)^{\frac{1}{p}} \quad p \geq 1, x\in \mathbb{R}^n$$
 
   * **1-norm(Taxicab metric)**
 
